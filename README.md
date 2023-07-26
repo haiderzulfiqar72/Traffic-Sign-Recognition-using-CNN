@@ -1,2 +1,2 @@
-# Traffic-Sign-Recognition-using-CNN
+# German Traffic Sign Recognition with CNN
 This project aims to develop a robust CNN for traffic sign recognition. It uses an extended GTSRB dataset with two classes. The CNN architecture includes two convolutional layers with ReLU activation, followed by max-pooling layers and a dense layer with sigmoid activation. The model is trained using SGD with binary cross-entropy loss. The accuracy is evaluated on a test set. The project explores the impact of different layers and parameters on the network's performance.
